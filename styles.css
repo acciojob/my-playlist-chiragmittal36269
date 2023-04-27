@@ -3,6 +3,7 @@
     text-decoration: none;
     list-style-type: none;
     padding: 0px;
+	color: black;
 }
 
 body{
@@ -12,7 +13,7 @@ body{
 .player_one{
     background-color: white;
     /* margin: 20px; */
-    /* width: 100%; */
+    width: 100%;
     padding: 10px;
     border-radius: 10px;
 	border: 1px solid black;
