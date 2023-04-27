@@ -24,6 +24,12 @@ body{
 	width: 100%;
 }
 
+.player_two p{
+	text-align: start;
+	font-size: 12px;
+	padding-left: 10px;
+}
+
 .player_two{
     background-color: white;
     padding: 10px;
